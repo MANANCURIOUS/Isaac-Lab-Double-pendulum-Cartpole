@@ -1,5 +1,5 @@
 # Isaac-Lab-Double-pendulum-Cartpole
-Task 2
+Task 2 (the scripts like environment,init,etc were not included because they are used as given by Isaac Lab. In this project I have evaluated the performance of PPO and MAPPO by tuning the hyperparameters directly from the cmd. Hence one can follow through just by installing the Isaac Lab and running the below commands.)
 # Double Cart Pendulum
 This project extends the single Cartpole experiment to a Double Cart Double Pendulum system using Proximal Policy Optimization (PPO) implemented with SKRL (Torch backend).
 
