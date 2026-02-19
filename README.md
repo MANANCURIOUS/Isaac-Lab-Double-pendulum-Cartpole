@@ -86,7 +86,17 @@ After tuning:
 - More stable training curve
 - Better coordination between cart and pendulum
 ### Video Results
-### Graph Results
+## PPO 
+### Initial Training Instance
+https://github.com/user-attachments/assets/04dad9b8-c41f-4683-90e2-8fdce33f78d2
+
+### Final Training Instance 
+https://github.com/user-attachments/assets/05709fdf-c586-4687-b1a4-ab51ab631c6e
+
+### Trained Model
+
+https://github.com/user-attachments/assets/75e6b496-d545-488c-adae-f57d96ff8710
+
 ## Using MPPO Algorithm (Multi-Agent PPO)
 MAPPO is an extension of PPO for multi-agent systems, where:
 
@@ -142,4 +152,21 @@ Better cooperative behavior between agent
 <img width="1157" height="589" alt="Screenshot 2026-02-19 060816" src="https://github.com/user-attachments/assets/70562420-46d8-4c32-ab46-6cdc4e2c1a87" />
 
 # Video Results
-Included in report too large
+## MPPO
+### Training Instance first
+https://github.com/user-attachments/assets/8e968c03-a829-4bc1-b0c5-b7cee20e20a1
+
+### Training Instance Final
+https://github.com/user-attachments/assets/d621f0d2-ec30-490b-b16c-3e3417507814
+### Baseline Model
+
+
+https://github.com/user-attachments/assets/977e4020-0228-4de0-8016-0f866e63c9ae
+
+
+### Tuned Model
+
+https://github.com/user-attachments/assets/618026bb-e41b-446a-99b2-a6a49177dba2
+
+
+
